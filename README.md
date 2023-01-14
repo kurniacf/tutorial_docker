@@ -10,6 +10,10 @@
     - [6. Using Volume](#6-using-volume)
 - [Create Docker Image](#create-docker-image)
     - [1. Simple Image](#1-simple-image)
+    - [2. Image Include File](#2-image-include-file)
+    - [3. Build Image Simple Compute](#3-build-image-simple-compute)
+    - [4. Tags](#4-tags)
+    - [5. Image Parametererized](#5-image-parametererized)
 
 
 ## Basic Concepts
